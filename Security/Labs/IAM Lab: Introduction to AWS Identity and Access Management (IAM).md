@@ -35,7 +35,19 @@ Initially forgot to note the AWS Region, leading to empty EC2/S3 views
 Solved by switching to the correct Region noted at the start of the lab
 
 ## Screenshot
-<img width="1920" height="1080" alt="Screenshot (685)" src="https://github.com/user-attachments/assets/edaa53d2-eca4-41ec-b944-a9a60effe60e" />
+<img width="1920" height="1080" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/bee5e22e-da12-4d8a-94c4-0b271456dadb" />
+<img width="1920" height="1080" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/1696e5b2-8200-4e4b-ba75-39dc2cff6cdd" />
+<img width="1920" height="1080" alt="Screenshot (677)" src="https://github.com/user-attachments/assets/8760ea84-8cbc-44bb-84c9-89da61a5103f" />
+<img width="1920" height="1080" alt="Screenshot (678)" src="https://github.com/user-attachments/assets/70686a52-1c29-4a5a-831e-11ab5c9e9bb6" />
+<img width="1920" height="1080" alt="Screenshot (679)" src="https://github.com/user-attachments/assets/cca2d278-faf4-4d9c-ac58-27751015c372" />
+<img width="1920" height="1080" alt="Screenshot (680)" src="https://github.com/user-attachments/assets/f5932af2-e7b3-44ad-ab95-aae1c3aa556b" />
+<img width="1920" height="1080" alt="Screenshot (681)" src="https://github.com/user-attachments/assets/2923dee0-056c-40bc-b0a9-1bef0e8568db" />
+<img width="1920" height="1080" alt="Screenshot (682)" src="https://github.com/user-attachments/assets/7d05b95f-fd91-42d4-bf43-c8c331b400cc" />
+<img width="1920" height="1080" alt="Screenshot (683)" src="https://github.com/user-attachments/assets/8d0efed8-8513-4266-bf34-789a4387f4c3" />
+<img width="1920" height="1080" alt="Screenshot (684)" src="https://github.com/user-attachments/assets/15deeb43-202f-4cb9-acf9-51be75c5cf4c" />
+<img width="1920" height="1080" alt="Screenshot (685)" src="https://github.com/user-attachments/assets/b1520edf-4a95-4be2-8e7a-7a927fe69104" />
+
+
 
 
 ## Takeaways
