@@ -60,3 +60,8 @@ Inline policies are custom policies tied to a single user/group.
 Always verify Region when resources are not visible during IAM user tests.
 
 Testing IAM permissions by signing in as different users is crucial for validation before handing off credentials in production.
+
+
+## Architectural diagram
+
+<img width="1920" height="888" alt="Screenshot (686)" src="https://github.com/user-attachments/assets/974350cc-d44e-424f-baa9-e83b83c35b6b" />
