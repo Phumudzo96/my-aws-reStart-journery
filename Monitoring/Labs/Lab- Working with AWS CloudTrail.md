@@ -49,18 +49,19 @@ SSH Configuration: Detected password-based SSH was enabled, which is insecure.
 Active unauthorized user: Had to identify and forcibly remove the chaos-user while managing active sessions.
 
 ## Screenshot
-<img width="1920" height="1080" alt="Screenshot (699)" src="https://github.com/user-attachments/assets/643e93d5-5b82-4805-a104-337f3bf73885" />
-<img width="1920" height="1080" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/47dfca56-251b-41dc-ba3f-2d8eb9700250" />
-<img width="1920" height="1080" alt="Screenshot (702)" src="https://github.com/user-attachments/assets/e5a4fab8-347d-4dea-91e7-b5aafba34b86" />
-<img width="1920" height="1080" alt="Screenshot (703)" src="https://github.com/user-attachments/assets/5f6601d0-2858-4961-a329-7f715065c7f5" />
-<img width="1920" height="1080" alt="Screenshot (704)" src="https://github.com/user-attachments/assets/1ba40237-ddbd-41b5-b782-4f2487b6e507" />
-<img width="1920" height="1080" alt="Screenshot (705)" src="https://github.com/user-attachments/assets/6fcfaff9-8fb1-42fb-b782-3b4e4d5541ae" />
-<img width="1920" height="1080" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/1fa4c49f-04e4-4280-bfe6-5bf666af394a" />
-<img width="1920" height="1080" alt="Screenshot (707)" src="https://github.com/user-attachments/assets/e03b452e-7254-431d-a814-e7b77a4b780b" />
-<img width="1920" height="1080" alt="Screenshot (708)" src="https://github.com/user-attachments/assets/1d521020-73d2-4e18-bdfe-aeeabcf2fc9e" />
-<img width="1920" height="1080" alt="Screenshot (709)" src="https://github.com/user-attachments/assets/cac8e5d7-98be-473a-a6ad-a23e3ba084c1" />
-<img width="1920" height="1080" alt="Screenshot (710)" src="https://github.com/user-attachments/assets/8417570f-2f07-4215-a34e-3fcf7319b6ee" />
-<img width="1920" height="1080" alt="Screenshot (711)" src="https://github.com/user-attachments/assets/1b7bcf7b-3720-467a-a5f8-690d4ddaf138" />
+<img width="1920" height="882" alt="Screenshot (699)" src="https://github.com/user-attachments/assets/6124add1-a101-4e47-a4ec-f091b50bd20e" />
+<img width="1920" height="865" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/ebf75a55-2023-4459-82b7-17cf4bca1ec0" />
+<img width="1920" height="862" alt="Screenshot (702)" src="https://github.com/user-attachments/assets/51c8eb5e-0a97-4e5b-ba68-7268f1bc5c47" />
+<img width="1920" height="1009" alt="Screenshot (703)" src="https://github.com/user-attachments/assets/9aeb8547-86e4-4585-ac3c-b53a872621e0" />
+<img width="1920" height="1021" alt="Screenshot (704)" src="https://github.com/user-attachments/assets/1a94ba4e-3e73-475f-9c83-5e42835a131f" />
+<img width="1920" height="1013" alt="Screenshot (705)" src="https://github.com/user-attachments/assets/73034387-9bc3-437d-a8c2-f1213db9db9b" />
+<img width="1920" height="1000" alt="Screenshot (706)" src="https://github.com/user-attachments/assets/8ac25db0-88a5-4d33-ae55-e8f0ba3f9574" />
+<img width="1920" height="1005" alt="Screenshot (707)" src="https://github.com/user-attachments/assets/8466eb5b-2b61-411d-aecc-372b0aa43c74" />
+<img width="1920" height="873" alt="Screenshot (708)" src="https://github.com/user-attachments/assets/8318f20d-8a5f-4744-b938-606d10453269" />
+<img width="1920" height="875" alt="Screenshot (709)" src="https://github.com/user-attachments/assets/2221baa4-c5e4-484e-bd8e-261ef183dbac" />
+<img width="1920" height="891" alt="Screenshot (710)" src="https://github.com/user-attachments/assets/d0c7ea7f-428e-4ce8-9edf-a15f3bd1c9b2" />
+<img width="1920" height="1009" alt="Screenshot (711)" src="https://github.com/user-attachments/assets/a961038f-5d82-469d-b816-79b3a2cff71e" />
+
 
 
 ## Takeaways
