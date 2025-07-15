@@ -33,14 +33,29 @@ Initially forgot to enable auto-assign public IP in the public subnet.
 ✅ Fixed by editing subnet settings.
 
 ## Screenshot
-(Optional – paste image if available)
+<img width="1920" height="865" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/282b6bca-8e5d-42f9-a93b-f5ef3c4eb9c2" />
+<img width="1920" height="873" alt="Screenshot (609)" src="https://github.com/user-attachments/assets/1e98e371-30ae-4d7f-a1e5-50056c61c9d5" />
+<img width="1920" height="880" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/50d1584e-2381-42d3-890c-b6a5f145fd29" />
+<img width="1920" height="876" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/9d7dad88-25c8-4eb6-851f-4e6d302928d2" />
+<img width="1920" height="876" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/cdfb13b6-cefd-4c67-b60e-c7dd8949f66a" />
+<img width="1920" height="886" alt="Screenshot (614)" src="https://github.com/user-attachments/assets/fddf207c-1322-483d-8b7f-0bdf26a078ce" />
+<img width="1920" height="876" alt="Screenshot (615)" src="https://github.com/user-attachments/assets/5e5bb8b8-5ce4-44c5-bc43-9e175ebc75f8" />
+<img width="1920" height="873" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/c5ccdbe1-ae36-49d5-9901-444088c14d9e" />
+<img width="1920" height="876" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/ac0e9835-090b-4b1a-a824-0ff3c4826b43" />
+
+
 
 ## Takeaways
 ✅ VPCs provide isolated, customizable networking for AWS resources.
+
 ✅ Subnets control resource exposure: public for internet-facing, private for isolated workloads.
+
 ✅ Internet Gateways and NAT Gateways enable secure, controlled internet access.
+
 ✅ Route Tables direct traffic efficiently within and outside the VPC.
+
 ✅ Using a bastion host allows secure SSH into private instances without exposing them directly to the internet.
+
 ✅ Testing connectivity confirms the correct functioning of VPC, NAT, and security configurations.
 
 ## Architectural diagram
