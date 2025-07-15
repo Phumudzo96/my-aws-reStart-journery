@@ -73,3 +73,8 @@ Active unauthorized user: Had to identify and forcibly remove the chaos-user whi
 ✅ Security groups act as firewalls; review and restrict inbound rules regularly to prevent unauthorized access.
 
 ✅ CloudTrail, CLI, and Athena together provide a powerful toolset for incident detection and response in AWS.
+
+## Architectural diagram
+
+<img width="829" height="503" alt="Working with AWS CloudTrail drawio" src="https://github.com/user-attachments/assets/6bfc506c-4a06-4c09-b5fe-de5895b9f475" />
+
