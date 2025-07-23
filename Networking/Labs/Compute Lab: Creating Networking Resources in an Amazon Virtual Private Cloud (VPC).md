@@ -1,4 +1,4 @@
-# Compute Lab: Creating Networking Resources in an Amazon Virtual Private Cloud (VPC)
+# Networking Lab: Creating Networking Resources in an Amazon Virtual Private Cloud (VPC)
 ## Objective
 Learn how to:
 
