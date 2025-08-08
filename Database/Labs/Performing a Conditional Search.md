@@ -1,4 +1,4 @@
-# **Compute Lab: Performing a Conditional Search**
+# **Performing a Conditional Search**
 
 ### **Objective**
 
