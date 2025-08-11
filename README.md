@@ -17,19 +17,19 @@ This repo is a guide and template documenting what I learned during the AWS re/S
 4️⃣ Link this repo on your LinkedIn profile to showcase your cloud learning journey.  
 
 ## Topics Covered
-Compute (EC2, Lambda, Auto Scaling)
+⚡ Compute (EC2, Lambda, Auto Scaling)
 
-Storage (S3, EBS, Glacier)
+💾 Storage (S3, EBS, Glacier)
 
-Databases (RDS, DynamoDB)
+🗄️ Databases (RDS, DynamoDB)
 
-Resources (useful links, cheat sheets, and documentation references)
+📚 Resources (useful links, cheat sheets, and documentation references)
 
-Security(IAM, Encryption) 
+🔒 Security (IAM, Encryption)
 
-Networking(VPC, IPs)
+🌐 Networking (VPC, IPs)
 
-Monitoring(Cloudwatch, Cloudtrail)
+📊 Monitoring (CloudWatch, CloudTrail)
 
 ## Bonus: Publish as a GitHub Pages Site 🌐
 You can turn this repo into a public portfolio website:
